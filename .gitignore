@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Built files
+dist/
+*.js
+*.js.map
+
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Ignore typescript cache
+*.tsbuildinfo
